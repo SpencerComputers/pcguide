@@ -11,8 +11,8 @@ Generally when choosing an operating system, you'll need to have a good understa
 Windows 10 is usually the best choice for most computers since it is the most popular OS, has the most software available, and the most games avaliable.
 ## Linux
 Linux is much less popular then Windows 10 and has less software support. Generally Linux is more meant for advanced users. If you don't know what Linux is, don't use Linux. 
-Installing your operating system of choice
-# Installing Windows 
+# Installing your operating system of choice
+## Installing Windows 
 {% hint style="danger" %}
 You'll need another PC or laptop for this process! 
 {% endhint %}
@@ -41,5 +41,5 @@ You'll need another PC or laptop for this process!
 9. Plug in the flash drive to your new PC
 10. Install your linux distro of choice   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4NjA1OTMxXX0=
+eyJoaXN0b3J5IjpbLTgxNTE0Mzc2NSw0Mzg2MDU5MzFdfQ==
 -->
