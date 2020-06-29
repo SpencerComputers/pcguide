@@ -8,3 +8,6 @@ Now go ahead and put the screw in your mounting hole and screw it in with your h
 
 ![Images courtesy of Linus Tech Tips](https://lh4.googleusercontent.com/_EaC5XpZoBPWbvpHt7lJg4Me2DcB0f4NJZ_D_upIUmxMy-Mx9Q4fMtzTUp8G1uOkdJUzEj46xw36MCRgG3xvRZD4JC3jd4fbIWVRNy0enr8II55orlj4Fse4tcmoS-PlEx9GzzKE)
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDk0MDE2NzddfQ==
+-->
