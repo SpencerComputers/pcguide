@@ -26,7 +26,7 @@ You'll need another PC or laptop for this process!
 8. Plug the flash drive with Windows on it into your new computer
 9. Turn on your computer
 10. Begin the Windows installation (should be pretty straightforward)
-# Installing Linux 
+## Installing Linux 
 {% hint style="danger" %}
 You'll need another PC or laptop for this process! 
 {% endhint %}
@@ -41,5 +41,5 @@ You'll need another PC or laptop for this process!
 9. Plug in the flash drive to your new PC
 10. Install your linux distro of choice   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTE0Mzc2NSw0Mzg2MDU5MzFdfQ==
+eyJoaXN0b3J5IjpbMTIyNzQwNjI0Miw0Mzg2MDU5MzFdfQ==
 -->
