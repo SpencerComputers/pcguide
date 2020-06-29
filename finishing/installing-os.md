@@ -27,9 +27,9 @@ Installing your operating system of choice
 9. Turn on your computer
 10. Begin the Windows installation (should be pretty straightforward)
 # Installing Linux 
-
-> You'll need another PC or laptop for this process! 
-
+{% hint style="danger" %}
+You'll need another PC or laptop for this process! 
+{% endhint %}
 1. Depending on your distro of choice, you'll need to download the correct .iso file for your machine.
 2. Download [balenaetcher](https://www.balena.io/etcher/) 
 3. Drag and drop in your .iso file into the balenaetcher window
@@ -40,3 +40,6 @@ Installing your operating system of choice
 8. Remove your flash drive from the PC 
 9. Plug in the flash drive to your new PC
 10. Install your linux distro of choice   
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTgyMjk0NzY1M119
+-->
