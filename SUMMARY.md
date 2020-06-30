@@ -12,7 +12,8 @@
 * [The Beginning](the-build/the-beginning.md)
 * [The Motherboard](the-build/the-motherboard.md)
 * [The CPU](the-build/the-cpu/README.md)
-  * [CPU Cooler](the-build/the-cpu/cpu-cooler.md)
+  * [The Cooler](the-build/the-cpu/the-cooler.md)
+  * [Air Cooling](the-build/the-cpu/cpu-cooler.md)
 * [The RAM](the-build/the-ram.md)
 * [Storage](the-build/storage/README.md)
   * [M.2 Drive](the-build/storage/m.2-drive.md)
@@ -21,7 +22,8 @@
 
 ## ✔️ Finishing
 
-* [Finishing it off](finishing/untitled.md)
+* [First boot](finishing/untitled.md)
+* [Installing OS](finishing/installing-os.md)
 
 ## ⚠️ Troubleshooting
 

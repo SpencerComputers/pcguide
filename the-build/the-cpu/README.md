@@ -3,7 +3,7 @@
 Take your CPU out of the box and then out of the plastic packaging.
 
 {% hint style="danger" %}
-Avoid touching the metal part on the top \(the heat plate\) and the pins on the bottom as if one of these breaks it could cause irreversible damage to your processor. 
+Avoid touching the metal part on the top \(the heat plate\) and the pins on the bottom. If one of these components break, it could cause irreversible damage to your processor. 
 {% endhint %}
 
 Step one of installing your CPU is to push down the lever on your motherboard, pull it out and release. The retention plate or the black plastic covering the socket should pop out, then look on your CPU for the golden triangle on the corner, and rotate it to line it up with the golden triangle on your motherboard, then place it into the socket, no force is required, it should just drop in and place itself into place. 
