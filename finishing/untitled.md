@@ -1,4 +1,8 @@
-# Finishing it off
+---
+description: Turning it on for the first time!
+---
+
+# First boot
 
 So you've finished the build, good job. It's time for the moment of truth, to see if the system boots. Go ahead and plug in your power supply and power it on. If it boots, congratulations, you built your system correctly, now all that's left to do is install Windows and other utilities. You can find more info on that in the next page.
 
