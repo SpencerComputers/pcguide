@@ -14,3 +14,6 @@ The plastic plate will become loose and pop out, take this plastic plate and kee
 
 ![Images courtesy of Linus Tech Tips](https://lh5.googleusercontent.com/8FynV-PbLnYFpsnKd-a32rNRNAYThDajb0dtbz_3X028lET_rAkzaGnbO2QnJCs0Bi-FKz2gjnYufb8MhD7YFaK9lWm1pVAuc74k5NMnXVtCyt5ucQ98tJPrCxD6qo0F0Qs7DViu)
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU5OTMwNDQ5OV19
+-->

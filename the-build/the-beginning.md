@@ -1,6 +1,7 @@
 # The Beginning
 
-Make sure before starting anything, you have a clean, anti-static work surface. A kitchen bench or table will do. If the surface is medal, it’s good to have an anti-static working mat layered on top of it. 
+
+Make sure before starting anything, you have a clean, anti-static work surface. A kitchen bench or table will do, if it is metal, it’s good to have an anti-static working mat layered on top of it. 
 
 
 
@@ -28,3 +29,6 @@ Normally when building a computer, you build it in a specific order:
   
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NTg4NzM3OF19
+-->
