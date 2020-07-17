@@ -1,6 +1,6 @@
 # Required materials
 For installing an operating system to your newly built PC, you'll need the following:
-* USB Flash Drive (around 8-10GB should be enough)
+* USB Flash Drive (around 5-8GB should be enough)
 * Keyboard
  * You may wish to use a mouse during the installation process (though it is not required).
 * Monitor
